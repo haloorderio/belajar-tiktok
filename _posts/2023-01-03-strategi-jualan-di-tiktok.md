@@ -11,4 +11,4 @@ products: ["/products/Buka-Toko-Online-pake-Orderio-id-6.png"]
 
 ## Strategi Jualan di Tiktok agar lebih Optimal & Berkonversi Tinggi ##
 
-<center><iframe width="862" height="485" src="https://www.youtube.com/embed/LpSWCJvq53I?list=PL-91iV0VELy1gndqGUbHc9RZq_p6BSLXY?controls=0" title="Strategi Cara Jualan di Tiktok agar lebih Optimal &amp; Berkonversi Tinggi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="100%" height="485" src="https://www.youtube.com/embed/LpSWCJvq53I?controls=0" title="Strategi Cara Jualan di Tiktok agar lebih Optimal &amp; Berkonversi Tinggi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>

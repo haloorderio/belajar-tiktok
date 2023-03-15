@@ -11,4 +11,4 @@ products: ["/products/Buka-Toko-Online-pake-Orderio-id-6.png"]
 
 ## Belajar Seputar Algoritma Tiktok yang Wajib kamu Ketahui! ##
 
-<center><iframe width="862" height="485" src="https://www.youtube.com/embed/ksiaXW5EcIQ?list=PL-91iV0VELy1gndqGUbHc9RZq_p6BSLXY?rel=0" title="Belajar Seputar Algoritma Tiktok yang Wajib kamu Ketahui!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="100%" height="485" src="https://www.youtube.com/embed/ksiaXW5EcIQ?rel=0" title="Belajar Seputar Algoritma Tiktok yang Wajib kamu Ketahui!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
