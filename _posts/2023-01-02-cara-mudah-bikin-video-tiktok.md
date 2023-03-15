@@ -11,4 +11,4 @@ products: ["/products/Buka-Toko-Online-pake-Orderio-id-6.png"]
 
 ## Ini Cara Mudah Bikin Video Tiktok! ##
 
-<center><iframe width="100%" height="485" src="https://www.youtube.com/embed/vYIQL-FIu_k?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe width="100%" height="485" src="https://www.youtube.com/embed/vYIQL-FIu_k?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
