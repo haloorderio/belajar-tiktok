@@ -1,4 +1,4 @@
-Sitemap: https://mukenalarizka.com/sitemap.xml
+Sitemap: https://orderio.my.id/belajar-tiktok/sitemap.xml
 
 User-agent: *
 
